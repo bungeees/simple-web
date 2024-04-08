@@ -1,1 +1,1 @@
-console.log("HOLA")
+const pair = "extraccionar"
